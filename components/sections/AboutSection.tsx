@@ -2,8 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Check } from "lucide-react";
 
-const marciImage =
-  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/Marci%201.jpg/:/cr=t:12.9%25,l:27.78%25,w:48.08%25,h:32.04%25/rs=w:1095,h:1095,cg:true,m";
+const marciImage = "/images/about-marci.jpg";
 
 const values = [
   "Personalized guidance for your real estate journey",

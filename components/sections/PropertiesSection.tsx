@@ -5,27 +5,27 @@ import Image from "next/image";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
 const propertyPhotos = [
   {
-    src: "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4460%20Roseworthy-52.jpg-SMALL.JPG/:/rs=w:984,h:655",
+    src: "/images/roseworthy-property.jpg",
     title: "Roseworthy Property",
   },
   {
-    src: "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-14.jpg-SMALL.JPG/:/cr=t:0%25,l:0.05%25,w:99.9%25,h:99.9%25/rs=w:984,h:655",
+    src: "/images/ailanto-property-1.jpg",
     title: "Ailanto Property",
   },
   {
-    src: "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-50.jpg-SMALL.JPG/:/rs=w:984,h:655",
+    src: "/images/ailanto-property-2.jpg",
     title: "Ailanto Property",
   },
   {
-    src: "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-45.jpg-SMALL.JPG/:/rs=w:984,h:655",
+    src: "/images/ailanto-property-3.jpg",
     title: "Ailanto Property",
   },
   {
-    src: "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-54.jpg-SMALL.JPG/:/rs=w:984,h:655",
+    src: "/images/beacon-ridge-property-1.jpg",
     title: "East Beacon Ridge Property",
   },
   {
-    src: "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-53.jpg-SMALL.JPG/:/rs=w:984,h:656",
+    src: "/images/beacon-ridge-property-2.jpg",
     title: "East Beacon Ridge Property",
   },
 ];

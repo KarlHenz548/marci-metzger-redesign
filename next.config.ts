@@ -16,12 +16,7 @@ const nextConfig: NextConfig = {
     },
   },
   images: {
-
     remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "*.wsimg.com",
-      },
       {
         protocol: "https",
         hostname: "images.unsplash.com",

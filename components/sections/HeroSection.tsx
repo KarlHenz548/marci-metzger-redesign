@@ -2,8 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowUpRight, Phone } from "lucide-react";
 
-const marciImage =
-  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/photo-5db79f9.jpg/:/cr=t:14.07%25,l:0%25,w:100%25,h:66.64%25/rs=w:1095,h:1095,cg:true";
+const marciImage = "/images/hero-marci.jpg";
+
 export default function HeroSection() {
   return (
     <section
